@@ -1,0 +1,93 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "buzzer",
+					"strict" : false
+				},
+				{
+					"name" : "ledyellow",
+					"strict" : false
+				},
+				{
+					"name" : "ledgreen",
+					"strict" : false
+				},
+				{
+					"name" : "ledred",
+					"strict" : false
+				},
+				{
+					"name" : "motor",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sevensegment2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "irin",
+					"strict" : false
+				},
+				{
+					"name" : "smokein",
+					"strict" : false
+				},
+				{
+					"name" : "flamein",
+					"strict" : false
+				},
+				{
+					"name" : "clk1",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

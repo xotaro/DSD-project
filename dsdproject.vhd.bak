@@ -1,0 +1,18 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+Entity dsdproject is
+
+
+
+
+END dsdproject
+
+
+
+Architecture dsdprojectfunc is
+BEGIN
+
+
+
+END dsdprojectfunc
